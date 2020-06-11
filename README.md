@@ -1,4 +1,4 @@
-
+[![Run on Repl.it](https://repl.it/badge/github/schesnowitz/Ruby-on-Rails-a-Beginners-Guide)](https://repl.it/github/schesnowitz/Ruby-on-Rails-a-Beginners-Guide)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
